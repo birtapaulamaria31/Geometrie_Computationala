@@ -1,0 +1,6 @@
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de concurenta dintre 3 drepte\Conditia de concurenta dintre 3 drepte\bin\Debug\Conditia de concurenta dintre 3 drepte.exe.config
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de concurenta dintre 3 drepte\Conditia de concurenta dintre 3 drepte\bin\Debug\Conditia de concurenta dintre 3 drepte.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de concurenta dintre 3 drepte\Conditia de concurenta dintre 3 drepte\bin\Debug\Conditia de concurenta dintre 3 drepte.pdb
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de concurenta dintre 3 drepte\Conditia de concurenta dintre 3 drepte\obj\Debug\Conditia de concurenta dintre 3 drepte.csprojAssemblyReference.cache
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de concurenta dintre 3 drepte\Conditia de concurenta dintre 3 drepte\obj\Debug\Conditia de concurenta dintre 3 drepte.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de concurenta dintre 3 drepte\Conditia de concurenta dintre 3 drepte\obj\Debug\Conditia de concurenta dintre 3 drepte.pdb

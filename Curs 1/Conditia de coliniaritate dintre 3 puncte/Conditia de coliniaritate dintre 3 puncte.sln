@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditia de coliniaritate dintre 3 puncte", "Conditia de coliniaritate dintre 3 puncte\Conditia de coliniaritate dintre 3 puncte.csproj", "{63F360E3-44E9-407A-B073-9B67D9CE9DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F360E3-44E9-407A-B073-9B67D9CE9DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F360E3-44E9-407A-B073-9B67D9CE9DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F360E3-44E9-407A-B073-9B67D9CE9DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F360E3-44E9-407A-B073-9B67D9CE9DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63DE0AEC-D214-42DA-9993-613BF27F523A}
+	EndGlobalSection
+EndGlobal

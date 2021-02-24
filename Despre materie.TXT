@@ -1,0 +1,11 @@
+******GEOMETRIE COMPUTATIONALA******
+
+Nota se va da pe activitatea de pe parcursul semestrului si ni se va comunica in sesiune (NU DAM EXAMEN).
+
+
+Fiecare student va prezenta colegilor o tema pregatita dinainte de ora, cel putin o data pe semestru. 
+Prezentarea va contine si parte teoretica si pratica (programul care sa ruleze algoritmul pe care il prezentam). 
+Se pot face echipe de cate 2. 
+Prezentarea va avea loc in timpul cursului si intr-o ora pot prezenta 2-3 echipe.
+
+Este obligatoriu ca fiecare student sa dam share-screen cel putin la 8 din cele 14 laboratoare(seminarii), adica share-screen la programel.

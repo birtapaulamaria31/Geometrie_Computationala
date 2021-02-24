@@ -1,0 +1,6 @@
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de coliniaritate dintre 3 puncte\Conditia de coliniaritate dintre 3 puncte\bin\Debug\Conditia de coliniaritate dintre 3 puncte.exe.config
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de coliniaritate dintre 3 puncte\Conditia de coliniaritate dintre 3 puncte\bin\Debug\Conditia de coliniaritate dintre 3 puncte.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de coliniaritate dintre 3 puncte\Conditia de coliniaritate dintre 3 puncte\bin\Debug\Conditia de coliniaritate dintre 3 puncte.pdb
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de coliniaritate dintre 3 puncte\Conditia de coliniaritate dintre 3 puncte\obj\Debug\Conditia de coliniaritate dintre 3 puncte.csprojAssemblyReference.cache
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de coliniaritate dintre 3 puncte\Conditia de coliniaritate dintre 3 puncte\obj\Debug\Conditia de coliniaritate dintre 3 puncte.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 1\Conditia de coliniaritate dintre 3 puncte\Conditia de coliniaritate dintre 3 puncte\obj\Debug\Conditia de coliniaritate dintre 3 puncte.pdb
