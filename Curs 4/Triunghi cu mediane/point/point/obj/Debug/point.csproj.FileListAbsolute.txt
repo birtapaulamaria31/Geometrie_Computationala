@@ -1,0 +1,24 @@
+E:\Bac Gabi 2020\point\point\bin\Debug\point.exe
+E:\Bac Gabi 2020\point\point\bin\Debug\point.pdb
+E:\Bac Gabi 2020\point\point\obj\Debug\point.csprojResolveAssemblyReference.cache
+E:\Bac Gabi 2020\point\point\obj\Debug\point.Form1.resources
+E:\Bac Gabi 2020\point\point\obj\Debug\point.Properties.Resources.resources
+E:\Bac Gabi 2020\point\point\obj\Debug\point.csproj.GenerateResource.Cache
+E:\Bac Gabi 2020\point\point\obj\Debug\point.exe
+E:\Bac Gabi 2020\point\point\obj\Debug\point.pdb
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Lab\Cu Laslo\point\point\bin\Debug\point.exe
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Lab\Cu Laslo\point\point\bin\Debug\point.pdb
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Lab\Cu Laslo\point\point\obj\Debug\point.csprojAssemblyReference.cache
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Lab\Cu Laslo\point\point\obj\Debug\point.Form1.resources
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Lab\Cu Laslo\point\point\obj\Debug\point.Properties.Resources.resources
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Lab\Cu Laslo\point\point\obj\Debug\point.csproj.GenerateResource.cache
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Lab\Cu Laslo\point\point\obj\Debug\point.exe
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Lab\Cu Laslo\point\point\obj\Debug\point.pdb
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 4\point\point\bin\Debug\point.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 4\point\point\bin\Debug\point.pdb
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 4\point\point\obj\Debug\point.csprojAssemblyReference.cache
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 4\point\point\obj\Debug\point.Form1.resources
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 4\point\point\obj\Debug\point.Properties.Resources.resources
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 4\point\point\obj\Debug\point.csproj.GenerateResource.cache
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 4\point\point\obj\Debug\point.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 4\point\point\obj\Debug\point.pdb

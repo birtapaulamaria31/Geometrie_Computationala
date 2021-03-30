@@ -1,0 +1,9 @@
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\bin\Debug\Invelitori Convexe.exe.config
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\bin\Debug\Invelitori Convexe.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\bin\Debug\Invelitori Convexe.pdb
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\obj\Debug\Invelitori Convexe.csprojAssemblyReference.cache
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\obj\Debug\Invelitori_Convexe.Form1.resources
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\obj\Debug\Invelitori_Convexe.Properties.Resources.resources
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\obj\Debug\Invelitori Convexe.csproj.GenerateResource.cache
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\obj\Debug\Invelitori Convexe.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 5\Invelitori Convexe\obj\Debug\Invelitori Convexe.pdb

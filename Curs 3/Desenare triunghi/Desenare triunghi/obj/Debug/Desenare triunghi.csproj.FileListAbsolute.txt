@@ -1,0 +1,9 @@
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\bin\Debug\Desenare triunghi.exe.config
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\bin\Debug\Desenare triunghi.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\bin\Debug\Desenare triunghi.pdb
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\obj\Debug\Desenare triunghi.csprojAssemblyReference.cache
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\obj\Debug\Desenare_triunghi.Form1.resources
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\obj\Debug\Desenare_triunghi.Properties.Resources.resources
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\obj\Debug\Desenare triunghi.csproj.GenerateResource.cache
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\obj\Debug\Desenare triunghi.exe
+D:\Facultate\Semestrul al II-lea\Geometrie computationala\Curs 3\Desenare triunghi\Desenare triunghi\obj\Debug\Desenare triunghi.pdb

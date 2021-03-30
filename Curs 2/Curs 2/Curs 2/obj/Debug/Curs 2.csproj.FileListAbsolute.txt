@@ -1,0 +1,6 @@
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Curs\Curs 2\Curs 2\Curs 2\bin\Debug\Curs 2.exe.config
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Curs\Curs 2\Curs 2\Curs 2\bin\Debug\Curs 2.exe
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Curs\Curs 2\Curs 2\Curs 2\bin\Debug\Curs 2.pdb
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Curs\Curs 2\Curs 2\Curs 2\obj\Debug\Curs 2.csprojAssemblyReference.cache
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Curs\Curs 2\Curs 2\Curs 2\obj\Debug\Curs 2.exe
+D:\Facultate\Semestrul al II-lea\Algoritmi fundamentali\Curs\Curs 2\Curs 2\Curs 2\obj\Debug\Curs 2.pdb
